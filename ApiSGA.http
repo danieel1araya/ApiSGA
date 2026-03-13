@@ -1,0 +1,6 @@
+@ApiSGA_HostAddress = http://localhost:5166
+
+GET {{ApiSGA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
